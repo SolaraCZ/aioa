@@ -1,0 +1,12 @@
+Model ("HuS")
+{
+
+    // REGISTER NEW ARMOR HERE
+
+    aniEnum
+    {
+
+        // ADD NEW ANIMATIONS HERE
+
+    }
+}
